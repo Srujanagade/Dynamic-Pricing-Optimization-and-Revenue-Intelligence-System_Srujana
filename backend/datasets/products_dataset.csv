@@ -1,0 +1,51 @@
+product_name,category,price,stock
+Laptop,Electronics,55000,20
+Gaming Laptop,Electronics,85000,12
+Desktop Computer,Electronics,48000,15
+Monitor,Electronics,12000,30
+Keyboard,Accessories,1200,80
+Mouse,Accessories,800,100
+Wireless Mouse,Accessories,1500,60
+Headphones,Audio,3500,50
+Bluetooth Speaker,Audio,4500,40
+Smartphone,Electronics,25000,35
+Tablet,Electronics,32000,18
+Smartwatch,Wearables,8500,28
+Fitness Band,Wearables,3500,40
+Printer,Office,15000,10
+Scanner,Office,12000,8
+USB Drive,Accessories,700,150
+External Hard Disk,Storage,5500,45
+SSD 512GB,Storage,6500,38
+SSD 1TB,Storage,9500,22
+Power Bank,Accessories,1800,75
+Router,Networking,3200,30
+Webcam,Accessories,2800,20
+Microphone,Audio,4200,18
+Projector,Electronics,38000,7
+Camera,Electronics,65000,6
+Tripod,Photography,2500,25
+Memory Card,Storage,1200,90
+Graphics Card,Computer Parts,42000,10
+Processor,Computer Parts,28000,15
+Motherboard,Computer Parts,18000,18
+RAM 8GB,Computer Parts,3200,60
+RAM 16GB,Computer Parts,6200,40
+CPU Cooler,Computer Parts,3500,22
+Cabinet,Computer Parts,4500,20
+Gaming Chair,Furniture,12000,15
+Office Chair,Furniture,7500,25
+Office Desk,Furniture,9000,12
+LED TV,Electronics,42000,10
+Air Conditioner,Home Appliances,38000,8
+Refrigerator,Home Appliances,32000,9
+Washing Machine,Home Appliances,28000,11
+Microwave Oven,Home Appliances,12000,14
+Electric Kettle,Home Appliances,1800,35
+Mixer Grinder,Home Appliances,4500,20
+Ceiling Fan,Home Appliances,2500,40
+Water Purifier,Home Appliances,14000,12
+Vacuum Cleaner,Home Appliances,9500,16
+Iron Box,Home Appliances,1800,25
+Air Purifier,Home Appliances,16000,10
+Coffee Maker,Home Appliances,6500,18
